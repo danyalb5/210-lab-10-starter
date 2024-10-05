@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-
-    // add any code here, sort of a 'hello world plus' code block
-
+    int a = 5, b = 10;
+    cout << "Hello, World!" << endl;
+    cout << "Sum of a and b is: " << a + b << endl;
     return 0;
 }
